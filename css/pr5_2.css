@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: helvectica, tahoma, arial;
+    width: 80em;
+    margin: 0 auto;
+    background: url(slide1.jpg) no-repeat grey fixed;
+    background-size: cover;
+}
+header {background-color: rgba(0, 0, 255, .3);}
+header img {
+    display: inline-block;
+    width: 10em;
+    float: left;
+}
+header > h1 {
+    display: inline-block;
+    font-size: 7em;
+    float: right;
+}
+header > nav{
+    width: 80em;
+}
