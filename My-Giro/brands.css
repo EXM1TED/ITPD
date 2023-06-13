@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-menu {
+    margin: 10px 0;
+    height: 40px;
+    font-size: 16px;
+    line-height: 41px;
+}
+
+.main-menu img {
+    float: left;
+    margin-left: 40px;
+}
+
+.main-menu nav {
+    float: right;
+}
+
+.main-menu ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.main-menu ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.main-menu p {
+    float: right;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+.main-h{
+    margin: 100px;
+    text-align: center
+}
+
+.brands{
+    padding-top: 20px;
+    width: 1134px;
+    height: 704px;
+    background-color: rgba(207, 203, 203, 0.548);
+}
+
+.electro{
+   
+    width: 237px;
+    height: 39px;
+    background-color: #F6D008;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.electro p{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.brands-row{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.content img{
+    width: 261px;
+    height: 263px;
+}
+
+.end{
+    display: flex;
+    margin-top: 50px;
+    font-size: 14px;
+    color: #8191A6;
+}
+.end1 p{
+    margin-bottom: 10px;
+    width: 388px;
+    height: 74px;
+
+}
+.end2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 150px;
+}
+.end2 p{
+    width: 160px;
+}
